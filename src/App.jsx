@@ -1,7 +1,4 @@
-
-
-import HojaDeVida from "./HojaDeVida";
-
+import HojaDeVida from "./pages/home/HojaDeVida";
 function App() {
   return <HojaDeVida />;
 }

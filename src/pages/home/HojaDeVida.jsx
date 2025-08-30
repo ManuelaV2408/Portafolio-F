@@ -187,5 +187,4 @@ const HojaDeVida = () => {
         </div>
     );
 };
-
 export default HojaDeVida;
