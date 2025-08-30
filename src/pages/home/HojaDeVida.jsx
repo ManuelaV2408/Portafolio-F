@@ -81,7 +81,7 @@ const HojaDeVida = () => {
             content: (
                 <div>
                     <div className="project-card">
-                        <h3>🎯 E-commerce Platform</h3>
+                        <h3> E-commerce Platform</h3>
                         <p>Plataforma completa de comercio electrónico con React, Node.js y MongoDB. Incluye carrito de compras, pasarela de pago y panel administrativo.</p>
                         <p><strong>Tecnologías:</strong> React, Node.js, MongoDB, Stripe</p>
                     </div>
@@ -139,7 +139,7 @@ const HojaDeVida = () => {
         <div className="container">
             <div className="header">
                 <div className="profile-picture">
-                    <img src="/Manuela Villada Salas.jpg" alt="Foto Manuela" />
+                    <img src="/manuela-villada.jpg" alt="Foto Manuela" />
                 </div>
                 <h1>Manuela Villada Salas</h1>
                 <div className="subtitle">Analista en ciberseguridad</div>
